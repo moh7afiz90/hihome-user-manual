@@ -16,6 +16,7 @@ module.exports = {
         link: 'http://hihome.sa',
       },
     ],
+    base: '/',
     sidebar: [
       {
         title: 'Signup and Login',
